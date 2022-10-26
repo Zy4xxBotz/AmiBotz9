@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285380166282']
-global.ownernomer = "6285380166282"
-global.premium = ['6285380166282']
+global.owner = ['6283160276131']
+global.ownernomer = "6283160276131"
+global.premium = ['6283160276131']
 global.packname = 'Sticker  Kahfi-XD'
 global.author = 'Naze'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
@@ -41,7 +41,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 25
+    free: 10
 }
 global.thumb = fs.readFileSync('./image/naze.jpg')
 global.vaze = { url: 'https://telegra.ph/file/15209657f9d4f59c7ca1e.mp4' }
